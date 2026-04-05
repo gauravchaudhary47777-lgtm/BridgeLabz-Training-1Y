@@ -14,4 +14,4 @@ public class ShoppingCart {
 
         System.out.println("Total price: " + total);
     }
-}
+}//*

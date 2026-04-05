@@ -18,4 +18,4 @@ public class CharacterAnalysis {
         System.out.println("Digits: " + digits);
         System.out.println("Special chars: " + special);
     }
-}
+}//*

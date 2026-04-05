@@ -13,4 +13,4 @@ public class GameScores {
         System.out.println("Not played: " + countNull);
         System.out.println("Total score: " + sum);
     }
-}
+}//*

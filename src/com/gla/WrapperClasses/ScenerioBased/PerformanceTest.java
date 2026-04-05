@@ -23,4 +23,4 @@ public class PerformanceTest {
         System.out.println("ArrayList time: " + (end1 - start1));
         System.out.println("Array time: " + (end2 - start2));
     }
-}
+}//*

@@ -12,4 +12,4 @@ public class PrimitiveToWrapper {
         System.out.println("Primitive value: " + num);
         System.out.println("Wrapper object: " + obj);
     }
-}
+}//*

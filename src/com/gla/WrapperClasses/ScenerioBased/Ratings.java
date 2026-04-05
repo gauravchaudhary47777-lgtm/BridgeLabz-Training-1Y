@@ -21,4 +21,4 @@ public class Ratings {
 
         System.out.println("Average: " + (double) sum / combined.size());
     }
-}
+}//*

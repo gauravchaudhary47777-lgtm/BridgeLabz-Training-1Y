@@ -12,4 +12,4 @@ public class AgeValidation {
         System.out.println(isValidAge("20"));
         System.out.println(isValidAge("abc"));
     }
-}
+}//*

@@ -25,4 +25,4 @@ public class StudentMarks {
 
         System.out.println("Average: " + (double) sum / valid.size());
     }
-}
+}//*

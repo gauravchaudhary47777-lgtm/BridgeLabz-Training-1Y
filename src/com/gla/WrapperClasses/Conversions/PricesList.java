@@ -22,4 +22,4 @@ public class PricesList {
         System.out.println("Highest price: " + max);
         System.out.println("Average price: " + avg);
     }
-}
+}//*
